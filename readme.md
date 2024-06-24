@@ -1,1 +1,1 @@
-Available live at: https://rakesh4real.github.io/ar-face-filters/
+Available live at: https://ar-filter-tamannak12s-projects.vercel.app/
